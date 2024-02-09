@@ -2,7 +2,8 @@
     Detection of “Auto Insurance Fraud” by analyzing past claims data.
   
   **DATA PREPROCESSING**
-       REMOVING IRRELEVANT DATA:
+  
+        REMOVING IRRELEVANT DATA:
           Conducted an analysis to determine the number of unique values for each feature within the dataset.
           Utilized heatmaps to visualize and calculate correlations between features. Dropped data columns with high correlation between them.
           Also removed features that were irrelevant.
